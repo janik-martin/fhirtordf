@@ -15,4 +15,4 @@ isodate
 jsonasobj>=1.2.1
 python-dateutil
 rdflib-jsonld
-rdflib~=5.0
+rdflib~=6.1.1
