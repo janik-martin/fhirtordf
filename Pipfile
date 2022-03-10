@@ -5,10 +5,11 @@ verify_ssl = true
 
 [dev-packages]
 pbr = "*"
+pylint = "*"
 
 [packages]
 python-dateutil = "*"
-rdflib = "~=5.0"
+rdflib = "~=6.1.1"
 rdflib-jsonld = "*"
 jsonasobj = ">=1.2.1"
 dirlistproc = ">=1.4.5"
